@@ -32,3 +32,9 @@ This project demonstrates containerization of a simple web application using Doc
 
 This project is part of my structured DevOps learning roadmap.
 
+Day-10: ## Day-10: First Docker Container
+
+- Built a custom Docker image using NGINX
+- Served a static web page from a container
+- Exposed the application on localhost:8080
+- Verified container lifecycle using Docker CLI
