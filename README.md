@@ -33,13 +33,15 @@ This project demonstrates containerization of a simple web application using Doc
 This project is part of my structured DevOps learning roadmap.
 
 
+
 Day-10: ## Day-10: First Docker Container
 
 * Built a custom Docker image using NGINX
 * Served a static web page from a container
 * Exposed the application on localhost:8080
 * Verified container lifecycle using Docker CLI
-  
+
+
 
 \## Day-11: Dockerfile Optimization
 
@@ -47,6 +49,17 @@ Day-10: ## Day-10: First Docker Container
 * Improved Dockerfile structure and predictability
 * Built and compared optimized image versions
 * Reinforced best practices for image layering and caching
+  
+
+\## Day-12: Docker Compose \& Multi-Container Setup
 
 
+
+\- Introduced Docker Compose for orchestration
+
+\- Ran multiple containers with a single command
+
+\- Used Compose networking for container communication
+
+\- Verified clean startup and shutdown of services
 
